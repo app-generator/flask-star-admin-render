@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.8] 2022-11-07
+### Improvements
+
+- [Deploy LIVE on Render](https://youtu.be/mGaqgHvBnug) - `video presentation` 
+
 ## [1.0.7] 2022-11-07
 ### Improvements
 
